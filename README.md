@@ -4,4 +4,4 @@
 
 Here's a walkthrough of implemented user stories:
 
-<img src='ProjectPoster.jpg' title='Project Poster' width='' alt='Video Walkthrough' />
+<img src='Projectposter.png' title='Project Poster' width='' alt='Video Walkthrough' />
