@@ -2,4 +2,4 @@
 
 ## Project Poster
 
-<img src='Projectposter.png' title='Project Poster' width='' alt='Video Walkthrough' />
+<img src='Project_Poster.png' title='Project Poster' width='' alt='Video Walkthrough' />
