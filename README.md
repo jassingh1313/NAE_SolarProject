@@ -2,6 +2,4 @@
 
 ## Project Poster
 
-Here's a walkthrough of implemented user stories:
-
 <img src='Projectposter.png' title='Project Poster' width='' alt='Video Walkthrough' />
